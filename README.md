@@ -11,4 +11,5 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard/dashboard.py
 ```
-
+## Link Deploy Aplikasi
+https://bikesharingproyek.streamlit.app/
